@@ -41,7 +41,11 @@
 
 Watch the complete walkthrough here:
 
-**comming soon...**
+<p align="center">
+  <a href="https://youtu.be/UKJXSXMmS7A">
+    Watch the video on YouTube.
+  </a>
+</p>
 
 ---
 
