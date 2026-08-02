@@ -3,8 +3,8 @@
 > Inspired by Cheat Engine's speedhack feature, reimagined as a lightweight Windows utility.
 
 <p align="center">
-  <a href="">
-    🎥 Watch the Demo on YouTube (commin soon..)
+  <a href="https://youtu.be/ZRgDjeuXync">
+    🎥 Watch the Demo on YouTube.
   </a>
 </p>
 
