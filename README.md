@@ -3,7 +3,7 @@
 > Inspired by Cheat Engine's speedhack feature, reimagined as a lightweight Windows utility.
 
 <p align="center">
-  <img src="assets/demo.gif" alt="SpeedHack Demo" width="850"/>
+  <img src="assets/demo.mp4" alt="SpeedHack Demo" width="850"/>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ```
 assets/
-└── demo.gif
+└── demo.mp4
 ```
 
 ---
