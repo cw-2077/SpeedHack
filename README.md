@@ -15,12 +15,15 @@
 1. Download as ZIP file.
 2. Extract the ZIP file.
 3. Launch **SpeedHack.exe**.
-4. Select a "ibisPaint" option.
-*if not working please add the folder into your antivirus folder exceptions.
+4. Make sure the target app is aldready open. (like.. ibisPaint app)
+5. Select "ibisPaint" option and boom.. thats all now it stops the timer.
+*if not working please add the folder into your antivirus folder exceptions and try again.
 
-5. Select "other app" option if not not for ibis app.
-6. Choose a speed multiplier.
-7. Click **Inject**.
+6. Select "other app" option if not for ibis app.
+7. Choose a speed multiplier.
+8. Click **Inject**.
+
+**Enjoy ✨**
 
 ---
 
