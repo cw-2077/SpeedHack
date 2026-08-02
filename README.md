@@ -3,8 +3,8 @@
 > Inspired by Cheat Engine's speedhack feature, reimagined as a lightweight Windows utility.
 
 <p align="center">
-  <a href="https://youtu.be/YOUR_VIDEO_ID">
-    🎥 Watch the Demo on YouTube
+  <a href="">
+    🎥 Watch the Demo on YouTube (commin soon..)
   </a>
 </p>
 
@@ -12,12 +12,15 @@
 
 ## Getting Started
 
-1. Download the latest release from the **Releases** page.
+1. Download as ZIP file.
 2. Extract the ZIP file.
 3. Launch **SpeedHack.exe**.
-4. Select a running process.
-5. Choose a speed multiplier.
-6. Click **Apply**.
+4. Select a "ibisPaint" option.
+*if not working please add the folder into your antivirus folder exceptions.
+
+5. Select "other app" option if not not for ibis app.
+6. Choose a speed multiplier.
+7. Click **Inject**.
 
 ---
 
